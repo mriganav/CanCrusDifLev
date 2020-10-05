@@ -1,0 +1,7 @@
+# Setting the size of plots to a good default.
+options(repr.plot.width = 5, repr.plot.height = 4)
+
+# Loading packages
+library(dplyr)
+library(ggplot2)
+library(readr)
